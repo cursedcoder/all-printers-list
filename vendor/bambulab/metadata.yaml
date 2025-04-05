@@ -1,0 +1,53 @@
+printers:
+  - name: P1S
+    vendor: Bambulab
+    type: corexy
+    slug: p1s
+    icon: icons/bambulab/p1s.webp
+    supported_devices: [x1c, x1e, p1p, p1s]
+
+  - name: P1P
+    vendor: Bambulab
+    type: corexy
+    slug: p1p
+    icon: icons/bambulab/p1p.webp
+    supported_devices: [x1c, x1e, p1p, p1s]
+
+  - name: X1C
+    vendor: Bambulab
+    type: corexy
+    slug: x1c
+    icon: icons/bambulab/x1.webp
+    supported_devices: [x1c, x1e, p1p, p1s]
+
+  - name: X1E
+    vendor: Bambulab
+    type: corexy
+    slug: x1e
+    icon: icons/bambulab/x1e.webp
+    supported_devices: [x1c, x1e, p1p, p1s]
+
+  - name: A1 Mini
+    vendor: Bambulab
+    type: bedslinger
+    slug: a1mini
+    icon: icons/bambulab/a1mini.webp
+    supported_devices: [a1mini]
+
+  - name: A1
+    vendor: Bambulab
+    type: bedslinger
+    slug: a1
+    icon: icons/bambulab/a1.webp
+    supported_devices: [a1]
+
+ams:
+  - name: AMS Classic
+    slug: ams-classic
+    vendor: Bambulab
+    icon: icons/bambulab/ams-classic.webp
+
+  - name: AMS Lite
+    slug: ams-lite
+    vendor: Bambulab
+    icon: icons/bambulab/ams-lite.webp

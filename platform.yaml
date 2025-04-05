@@ -1,0 +1,8 @@
+platforms:
+  - name: Bedslinger
+    description: Bedslinger 3D printers "slide" their X/Z-axis when printing.
+    slug: bedslinger
+
+  - name: CoreXY
+    description: CoreXY 3D printers print with a single extruder and a single Z-axis.
+    slug: corexy
